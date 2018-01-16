@@ -17,6 +17,7 @@
         <module>adapter</module>
         <module>decorator</module>
         <module>headfirst</module>
+        <module>proxy</module>
     </modules>
 
 

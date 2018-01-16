@@ -13,6 +13,7 @@
         <module name="factorymethod" />
         <module name="headfirst" />
         <module name="prototype" />
+        <module name="proxy" />
         <module name="singleton" />
       </profile>
     </annotationProcessing>
@@ -25,6 +26,7 @@
       <module name="headfirst" target="1.5" />
       <module name="pattern" target="1.5" />
       <module name="prototype" target="1.5" />
+      <module name="proxy" target="1.5" />
       <module name="singleton" target="1.5" />
     </bytecodeTargetLevel>
   </component>

@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/headfirst/headfirst.iml" filepath="$PROJECT_DIR$/headfirst/headfirst.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern.iml" filepath="$PROJECT_DIR$/pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype/prototype.iml" filepath="$PROJECT_DIR$/prototype/prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
     </modules>
   </component>
