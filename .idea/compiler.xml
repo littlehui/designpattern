@@ -7,14 +7,24 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="abstractfactory" />
+        <module name="adapter" />
+        <module name="builder" />
+        <module name="decorator" />
         <module name="factorymethod" />
+        <module name="headfirst" />
+        <module name="prototype" />
         <module name="singleton" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="abstractfactory" target="1.5" />
+      <module name="adapter" target="1.5" />
+      <module name="builder" target="1.5" />
+      <module name="decorator" target="1.5" />
       <module name="factorymethod" target="1.5" />
+      <module name="headfirst" target="1.5" />
       <module name="pattern" target="1.5" />
+      <module name="prototype" target="1.5" />
       <module name="singleton" target="1.5" />
     </bytecodeTargetLevel>
   </component>
