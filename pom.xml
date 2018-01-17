@@ -18,6 +18,8 @@
         <module>decorator</module>
         <module>headfirst</module>
         <module>proxy</module>
+        <module>facade</module>
+        <module>bridge</module>
     </modules>
 
 

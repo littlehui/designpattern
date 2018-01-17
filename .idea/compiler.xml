@@ -8,8 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="abstractfactory" />
         <module name="adapter" />
+        <module name="bridge" />
         <module name="builder" />
         <module name="decorator" />
+        <module name="facade" />
         <module name="factorymethod" />
         <module name="headfirst" />
         <module name="prototype" />
@@ -20,8 +22,10 @@
     <bytecodeTargetLevel>
       <module name="abstractfactory" target="1.5" />
       <module name="adapter" target="1.5" />
+      <module name="bridge" target="1.5" />
       <module name="builder" target="1.5" />
       <module name="decorator" target="1.5" />
+      <module name="facade" target="1.5" />
       <module name="factorymethod" target="1.5" />
       <module name="headfirst" target="1.5" />
       <module name="pattern" target="1.5" />
