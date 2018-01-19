@@ -10,6 +10,7 @@
         <module name="adapter" />
         <module name="bridge" />
         <module name="builder" />
+        <module name="composite" />
         <module name="decorator" />
         <module name="facade" />
         <module name="factorymethod" />
@@ -24,6 +25,7 @@
       <module name="adapter" target="1.5" />
       <module name="bridge" target="1.5" />
       <module name="builder" target="1.5" />
+      <module name="composite" target="1.5" />
       <module name="decorator" target="1.5" />
       <module name="facade" target="1.5" />
       <module name="factorymethod" target="1.5" />
