@@ -14,6 +14,7 @@
         <module name="decorator" />
         <module name="facade" />
         <module name="factorymethod" />
+        <module name="flyweight" />
         <module name="headfirst" />
         <module name="prototype" />
         <module name="proxy" />
@@ -29,6 +30,7 @@
       <module name="decorator" target="1.5" />
       <module name="facade" target="1.5" />
       <module name="factorymethod" target="1.5" />
+      <module name="flyweight" target="1.5" />
       <module name="headfirst" target="1.5" />
       <module name="pattern" target="1.5" />
       <module name="prototype" target="1.5" />
