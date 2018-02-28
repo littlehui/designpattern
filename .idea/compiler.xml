@@ -19,6 +19,7 @@
         <module name="prototype" />
         <module name="proxy" />
         <module name="singleton" />
+        <module name="strategy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -36,6 +37,7 @@
       <module name="prototype" target="1.5" />
       <module name="proxy" target="1.5" />
       <module name="singleton" target="1.5" />
+      <module name="strategy" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
