@@ -24,6 +24,7 @@
         <module>flyweight</module>
         <module>strategy</module>
         <module>templatemethod</module>
+        <module>responsbilitychain</module>
     </modules>
 
 
