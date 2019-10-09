@@ -25,6 +25,8 @@
         <module>strategy</module>
         <module>templatemethod</module>
         <module>responsbilitychain</module>
+        <module>iterator</module>
+        <module>observer</module>
     </modules>
 
 

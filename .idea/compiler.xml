@@ -16,8 +16,10 @@
         <module name="factorymethod" />
         <module name="flyweight" />
         <module name="headfirst" />
+        <module name="iterator" />
         <module name="prototype" />
         <module name="proxy" />
+        <module name="responsbilitychain" />
         <module name="singleton" />
         <module name="strategy" />
         <module name="templatemethod" />
@@ -34,9 +36,11 @@
       <module name="factorymethod" target="1.5" />
       <module name="flyweight" target="1.5" />
       <module name="headfirst" target="1.5" />
+      <module name="iterator" target="1.5" />
       <module name="pattern" target="1.5" />
       <module name="prototype" target="1.5" />
       <module name="proxy" target="1.5" />
+      <module name="responsbilitychain" target="1.5" />
       <module name="singleton" target="1.5" />
       <module name="strategy" target="1.5" />
       <module name="templatemethod" target="1.5" />
