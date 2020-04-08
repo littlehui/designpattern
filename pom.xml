@@ -27,6 +27,10 @@
         <module>responsbilitychain</module>
         <module>iterator</module>
         <module>observer</module>
+        <module>command</module>
+        <module>memento</module>
+        <module>state</module>
+        <module>visitor</module>
     </modules>
 
 
